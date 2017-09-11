@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CSGO</string>
+    <string name="go">GO</string>
+    <string name="textview">TextView</string>
+    <string name="all">ALL</string>
+    <string name="c_terrorists">C-Terrorists</string>
+    <string name="terrorists">TERRORISTS</string>
+    <string name="title">TITLE</string>
+    <string name="maptext_strategy">maptext strategy</string>
+    <string name="mapimageview">mapImageView</string>
+    <string name="select_map">SELECT MAP</string>
+    <string name="next">next</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="add_strategy">Add strategy</string>
+    <string name="map">Map</string>
+    <string name="strategy_title">Strategy title</string>
+    <string name="strategy">Strategy</string>
+    <string name="team">Team</string>
+    <string name="titlestrat">Title</string>
+    <string name="what_s_your_strategy">What\'s your strategy?</string>
+    <string name="alland">ALL</string>
+    <string name="counter_terroristsland">Counter-Terrorists</string>
+    <string name="terroristsland">TERRORISTS</string>
+    <string name="mapimageviews">mapImageViews</string>
+    <string name="nextland">next</string>
+    <string name="buttonback">Button</string>
+
+    <string-array name="mapsarray">
+        <item>Dust2</item>
+        <item>Cobblestone</item>
+        <item>Cache</item>
+        <item>Mirage</item>
+        <item>Inferno</item>
+        <item>Overpass</item>
+        <item>Train</item>
+        <item>Nuke</item>
+    </string-array>
+
+    <string-array name="teamsarray">
+        <item>Terrorists</item>
+        <item>Counter-Terrorists</item>
+        <item>All</item>
+    </string-array>
+
+</resources>
